@@ -22,3 +22,8 @@ A Streamlit web app for generating creative text using a **fine-tuned GPT-2 mode
 ├── app.py                    # Streamlit application
 ├── text_generator.ipynb      # Jupyter Notebook (model training or testing)
 ├── gpt2-finetuned-wikitext2/ # Directory with fine-tuned GPT-2 model and tokenizer
+
+```
+# Output Sample
+
+![Output Image](output.png)
